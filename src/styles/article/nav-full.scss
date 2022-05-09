@@ -31,8 +31,8 @@
 
   .title {
     background-image: url('/assets/watercolor-short-bg.png');
-
     width: 200px;
+    text-align: center;
   }
 
   .pages {
@@ -43,6 +43,7 @@
   a {
     transition: all 250ms;
     border-bottom: 1px solid rgba(0, 0, 0, 0);
+
 
     &:hover {
       border-color: white;
@@ -59,11 +60,11 @@
     display: flex;
     background-image: url('/assets/watercolor-long-bg.png');
 
-    width: 550px;
+    height: 425px;
 
     div {
       display: flex;
-      flex-direction: row;
+      flex-direction: column;
       justify-content: space-around;
 
       a {

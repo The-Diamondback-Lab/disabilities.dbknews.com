@@ -95,7 +95,7 @@ export default class Home extends React.Component {
     return (
       <React.Fragment>
         <Helmet>
-          <title>'It's Real' | The Diamondback</title>
+          <title>Disability on Campus | The Diamondback</title>
         </Helmet>
         <HomeBackgrounds selectedBackground={this.state.selectedBackground}/>
         <div id="home-root" className={containerClass}>
@@ -109,7 +109,7 @@ export default class Home extends React.Component {
             <div id="home-content">
               <img className="mobile-banner"
                 src={mobileBanner}
-                alt="&quot;It's Real&quot; Banner"></img>
+                alt="&quot;Disability&quot; Banner"></img>
 
               <h1 className={headerClass}>{this.state.header}</h1>
               <p className={blurbClass + ' desktop'}>{this.state.blurb}</p>

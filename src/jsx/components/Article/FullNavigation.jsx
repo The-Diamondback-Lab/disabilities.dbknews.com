@@ -12,7 +12,7 @@ export default function FullNavigation(props) {
 
   return (
     <div style={{opacity}} className="nav-full">
-      <div className="title"><a href="/">'It's Real'</a></div>
+      <div className="title"><a href="/">Disability on Campus</a></div>
       <div className="pages">
         <div>{pageAnchors}</div>
       </div>

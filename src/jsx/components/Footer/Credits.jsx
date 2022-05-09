@@ -4,35 +4,35 @@ export default function Credits() {
       <h1>Credits</h1>
       <div className="sub-credit">
         <p>Reporters</p>
-        <p>Hallie Miller, Ellie Silverman, Danielle Ohl, Talia Richman, Taylor Swaak, Mina Haq, Lexie Schapitl and Natalie Schwartz</p>
+        <p>Shreya Vuttaluru, Victoria Stavish, Shifra Dayak, Christine Zhu and Clara Longo de Freitas</p>
       </div>
       <div className="split">
         <div className="sub-credit">
           <p>Design &amp; Development</p>
-          <p>Jake Hughes</p>
+          <p>Anthony Breder</p>
+        </div>
+        <div className="sub-credit">
+          <p>Illustrations</p>
+          <p>Clara Longo de Freitas</p>
         </div>
         <div className="sub-credit">
           <p>Project Editor</p>
-          <p>Ellie Silverman</p>
+          <p>Shreya Vuttaluru</p>
         </div>
       </div>
       <div className="split">
-        <div className="sub-credit">
-          <p>Sketch Artist</p>
-          <p>Yvette Yu</p>
-        </div>
-        <div className="sub-credit">
-          <p>Video Editor</p>
-          <p>Hallie Miller</p>
-        </div>
+      <div className="sub-credit">
+          <p>Content Editors</p>
+          <p>Shreya Vuttaluru, Clara Longo de Freitas, Anaya Truss-Williams and Rina Torchinsky</p>
+        </div>  
       </div>
       <div className="sub-credit">
-        <p>Photo Editor</p>
-        <p>Tom Hausman</p>
+        <p>Photo Editors</p>
+        <p>Autumn Hengen, Cam Andrews</p>
       </div>
       <div className="sub-credit">
         <p>Copy Editors</p>
-        <p>Ryan Romano, Uyen Nguyen, Joe Ilardi, Casey Noenickx and Rebecca Stryer</p>
+        <p>Marwa Barakat, Courtney Cohn, Mira Varghese, Harper Lawson, Gabrielle Lewis, Devon Milley,  Ella Sherman, Nataraj Shivaprasad and Minnie Stephenson</p>
       </div>
     </div>
   );

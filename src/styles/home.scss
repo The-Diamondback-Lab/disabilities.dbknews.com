@@ -47,6 +47,12 @@ $whiteBackgroundUrl: "/assets/watercolor-white-bg.png";
 
   h1 {
     display: none;
+    justify-items: center;
+
+    &.smaller {
+      justify-items: center;
+      align-items: center;
+    }
   }
 
   p {
@@ -167,13 +173,22 @@ $whiteBackgroundUrl: "/assets/watercolor-white-bg.png";
 
       color: inherit;
       font-family: 'Playfair Display SC', serif;
-      font-size: 12.5em;
+      font-size: 6em;
       letter-spacing: 0;
       text-transform: uppercase;
 
+      justify-content: center;
+      align-items: center;
+
       &.smaller {
         font-size: 5em;
+        width: 90%;
+        justify-content: center;
+        align-items: center;
+        justify-self: center;
+        text-align: center;
       }
+
     }
 
     p {
@@ -234,7 +249,7 @@ $transition-time: 500ms;
   }
 }
 
-$parts: 1, 2, 3, 4, 5, 6, 7;
+$parts: 1, 2, 3, 4, 5, 6;
 
 .full-bg {
   width: 100%;
@@ -258,5 +273,11 @@ $parts: 1, 2, 3, 4, 5, 6, 7;
       height: 100%;
       opacity: 1;
     }
+  }
+
+  h1 {
+    font-size: 5em;
+    justify-content: center;
+    align-items: center;
   }
 }

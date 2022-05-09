@@ -1,52 +1,44 @@
 [
   {
     "numeral": "I.",
-    "path": "on-her-own",
-    "authors": ["Hallie Miller", "Ellie Silverman"],
-    "blurb": "The university aims to resolve sexual misconduct cases in 60 business days, yet one student’s case dragged on for 152 business days.",
-    "navBlurb": "One student's sexual misconduct case took 152 business days to resolve",
-    "timelinePath": "/data/part1-timeline.json"
+    "path": "an-afterthought",
+    "authors": ["Victoria Stavish", "Shreya Vuttaluru"],
+    "blurb": "For those in the disabled community at this university, physical accessibility is still an issue on campus.",
+    "navBlurb": "For those in the disabled community at this university, physical accessibility is still an issue on campus."
   },
   {
     "numeral": "II.",
-    "path": "inside-the-culture",
-    "authors": ["Danielle Ohl"],
-    "blurb": "Lacking guidance, fraternities and sororities turn to internal processes to cope with allegations of sexual assault within their community.",
-    "navBlurb": "In the Greek community, sexual assault is often handled iternally"
+    "path": "prove-it",
+    "authors": ["Shreya Vuttaluru", "Christine Zhu"],
+    "blurb": "Some students with disability accomodations are disappointed with their experience.",
+    "navBlurb": "Some students with disability accomodations are disappointed with their experience."
   },
   {
     "numeral": "III.",
-    "path": "care-granted",
-    "authors": ["Talia Richman"],
-    "blurb": "UMD officials call CARE “one of the most important resources” on campus, yet half the office&lsquo;s staff is funded by temporary grants.",
-    "navBlurb": "CARE to Stop Violence relies on temporary funding to serve students"
+    "path": "legal-gaps",
+    "authors": ["Shifra Dayak"],
+    "blurb": "Exceptions in legislation can make it difficult to obtain equitable accommodations.",
+    "navBlurb": "Exceptions in legislation can make it difficult to obtain equitable accommodations."
   },
   {
     "numeral": "IV.",
-    "path": "i-can-never-escape",
-    "authors": ["Taylor Swaak"],
-    "blurb": "Many survivors say campus life can intensify the post-traumatic stress and anxiety they are already struggling to overcome.",
-    "navBlurb": "Campus life can intensify trauma for survivors"
+    "path": "stuck-in-a-limbo",
+    "authors": ["Shifra Dayak"],
+    "blurb": "Student workers at this university face complexities with disabilities in the workplace.",
+    "navBlurb": "Student workers at this university face complexities with disabilities in the workplace."
   },
   {
     "numeral": "V.",
-    "path": "work-in-progress",
-    "authors": ["Lexie Schapitl", "Natalie Schwartz"],
-    "blurb": "A due process lawsuit filed against this university highlights the challenges universities face as they strive to investigate sexual assault fairly and aggressively.",
-    "navBlurb": "A lawsuit against UMD highlights questions of due process"
+    "path": "lack-of-understanding",
+    "authors": ["Clara Longo de Freitas"],
+    "blurb": "Faculty with disabilities at this university face continued challenges.",
+    "navBlurb": "Faculty with disabilities at this university face continued challenges."
   },
   {
     "numeral": "VI.",
-    "path": "insufficient-evidence",
-    "authors": ["Mina Haq"],
-    "blurb": "Sexual violence is rarely reported to police. UMPD officers undergo training on interviewing techniques specific to sexual assault survivors.",
-    "navBlurb": "Sexual violence is rarely reported to police"
-  },
-  {
-    "numeral": "VII.",
-    "path": "first-line-of-defense",
-    "authors": ["Talia Richman"],
-    "blurb": "Between 50 and 70 percent of campus sexual assaults involve alcohol. Now, CARE to Stop Violence is training College Park bar staff in bystander intervention.",
-    "navBlurb": "CARE to Stop Violence brings bystander intervention to bars"
+    "path": "'one-giant-hill'",
+    "authors": ["Shreya Vuttaluru"],
+    "blurb": "University of Maryland students with disabilities opt for alternate modes of transit on campus.",
+    "navBlurb": "University of Maryland students with disabilities opt for alternate modes of transit on campus."
   }
 ]

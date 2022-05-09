@@ -2,7 +2,7 @@ import { FiChevronLeft, FiChevronRight } from 'react-icons/fi';
 
 import { tocData } from '../../../constants';
 
-const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII'];
+const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI'];
 
 /**
  * @param {ShortNavigationPropTypes} props

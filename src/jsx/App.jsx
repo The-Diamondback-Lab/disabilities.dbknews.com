@@ -38,7 +38,7 @@ export default function App() {
     return (
       <Router exact path={'/' + data.path} key={`route-part-${i+1}`}>
         <Helmet>
-          <title>'It's Real' | {title}</title>
+          <title>Disability on Campus | {title}</title>
           <script src="https://highcharts.github.io/pattern-fill/pattern-fill.js"></script>
         </Helmet>
         {basePage}

@@ -1,12 +1,12 @@
 {
-  "name": "itsreal-restoration",
+  "name": "disabilities-on-campus",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "axios": "^0.21.1",
     "dangerously-set-html-content": "^1.0.8",
     "highcharts": "^9.0.1",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.1",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -14,20 +14,12 @@
     "react-icons": "^4.2.0",
     "react-intersection-observer": "^8.31.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "echo \"No tests :(\""
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app"
-    ],
-    "rules": {
-      "jsx-a11y/alt-text": 0
-    }
   },
   "browserslist": {
     "production": [

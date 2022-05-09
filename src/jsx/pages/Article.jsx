@@ -49,7 +49,7 @@ export default class Article extends React.Component {
     const { content, timelineData } = this.state;
 
     let title = path.split('-').join(' ');
-    let imgCoverMobilePath = `https://dbknews-assets.s3.amazonaws.com/itsreal.dbknews.com/part${pageNumber+1}-cover-mobile.jpg`;
+    let imgCoverMobilePath = `https://dbknews-assets.s3.amazonaws.com/disabilities.dbknews.com/part${pageNumber+1}-cover-mobile.jpg`;
 
     return (
       <React.Fragment>
